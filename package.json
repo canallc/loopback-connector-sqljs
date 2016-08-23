@@ -1,0 +1,28 @@
+{
+  "name": "loopback-connector-sqljs",
+  "version": "0.1.0",
+  "description": "Loopback connector for sql.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Loopback",
+    "connector",
+    "sql.js"
+  ],
+  "contributors": [
+    {
+      "name": "Dan Sterrett",
+      "url": "https://github.com/dansterrett"
+    },
+    {
+      "name": "Aaron Luprek",
+      "url": "https://github.com/aluprek"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "sql.js": "^0.3.2"
+  }
+}
