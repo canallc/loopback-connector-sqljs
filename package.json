@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-sqljs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loopback connector for sql.js",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,9 @@
   "license": "MIT",
   "dependencies": {
     "sql.js": "^0.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/canallc/loopback-connector-sqljs.git"
   }
 }
